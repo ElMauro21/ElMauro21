@@ -1,69 +1,87 @@
-# Mauricio Andres Alfonso Forero
-**Industrial Engineer | Software Developer | Coding Enthusiast**
+# 📄 Mauricio Andres Alfonso Forero – CV
+
+📍 Sydney, Australia  
+📧 mauro311095@gmail.com  
+📞 0493 327 021  
+🌐 [GitHub – ElMauro21](https://github.com/ElMauro21)
 
 ---
 
-## Contact Information
-- **Email**: [mauro311095@gmail.com](mailto:mauro311095@gmail.com)
-- **Phone**: +61 493 327 021 (Australia)
+## 🎯 Career Objective
+
+Passionate and self-motivated aspiring Full Stack Developer with a solid foundation in web development using Go (Golang), Gin, JavaScript, and SQLite3. With a background in Industrial Engineering and a strong drive for continuous improvement, I bring a unique blend of process optimization and technical skills. Currently seeking an opportunity to contribute to dynamic development teams while growing as a developer.
 
 ---
 
-## About Me
-I'm an **Industrial Engineer** with a deep passion for coding and software development. I specialize in programming with **GO** and **C#**, and I have hands-on experience using tools like **Git**, **GitHub**, and **MySQL**. 
+## 🛠️ Technical Skills
 
-I am self-driven, always striving to do my best in every project I undertake. Whether it's building a video game for fun or contributing to a professional software development project, I am dedicated to delivering high-quality work. 
-
-Currently, I am looking for opportunities as a **Software Developer**, where I can apply my technical skills and contribute to the growth and success of a team.
-
----
-
-## Skills
-
-- **Languages**: GO, C#
-- **Tools & Technologies**: Git, GitHub, MySQL, Unity
-- **Other**: Software Development, Game Development, Version Control
+- **Languages:** Go (Golang), JavaScript  
+- **Frameworks:** Gin (Go Web Framework)  
+- **Databases:** SQLite3  
+- **Version Control:** Git  
+- **Tools:** HTML, CSS, REST APIs (basic), Visual Studio Code  
+- **Currently Learning:** Advanced JavaScript, React
 
 ---
 
-## Projects
+## 💻 Projects
 
-### **Video Game in Unity**  
-Developed a fully playable video game in **Unity** as a fun personal project. It involved game mechanics, graphics, and gameplay design. The game showcases my ability to bring ideas to life and the application of coding and creative problem-solving skills.
+### 🛒 UkaUkafb – E-commerce Web Application  
+📂 [GitHub Repository](https://github.com/ElMauro21/UkaUkafb-ecommerce)  
+**Tech stack:** Go, Gin, SQLite3, JavaScript, HTML/CSS, Go Templates, Git
 
-### **MySQL Database Management**
-Designed and implemented several databases using **MySQL** for practice and learning. The focus was on structuring databases, writing efficient queries, and ensuring data integrity.
+Developed an e-commerce platform for a fingerboard obstacle shop with real-time inventory and full user/admin functionality.
 
----
-
-## Experience
-
-### **Self-Taught Software Developer**
-- Developed various projects using **GO** and **C#**.
-- Built and maintained version control repositories on **GitHub**.
-- Worked with **MySQL** for managing data in personal projects.
+**Features:**
+- User registration, login, logout
+- Password recovery via email, account update and deletion
+- Admin dashboard (product CRUD)
+- Stock logic to restrict purchases to available items
+- UI rendered using Go templates and enhanced with JavaScript
 
 ---
 
-## Education
+## 🎓 Education
 
-- **Bachelor’s Degree** in Industrial Engineering
-- **Technician** in Software developer
-- **Advance Diploma** in Information Technology
+**Bachelor’s Degree in Industrial Engineering**  
+Nueva Granada Military University, Colombia – 2019  
 
----
-
-## Hobbies & Interests
-
-- Passionate about coding and exploring new technologies.
-- Love working on personal coding projects and solving complex problems.
-- Enjoy playing and developing video games.
+- Focused on process optimization, systems analysis, and productivity improvement  
+- Applied problem-solving and analytical thinking now transitioned into software development
 
 ---
 
-## Get in Touch
-I am always open to new opportunities and collaboration! Feel free to reach out to me via email or phone for inquiries about projects or work opportunities.
+## 💼 Work Experience
+
+**Joiner – AJK Outfitters**  
+Sydney, Australia | January 2024 – Present  
+
+- Assisted in installation of high-quality custom furniture and joinery  
+- Maintained workflow and adhered to safety procedures  
+- Known for dependability and high work ethic  
+- Learning software development in parallel with full-time work
 
 ---
 
-**Thank you for visiting my portfolio!**
+## 💪 Strengths
+
+- Passionate about coding and continuous learning  
+- Strong analytical mindset from engineering background  
+- Adaptable, reliable, and collaborative  
+- Always willing to give more than 100%  
+
+---
+
+## 🌐 Languages
+
+- **Spanish:** Native  
+- **English:** Intermediate (PTE Score: 63)
+
+---
+
+## 📚 Currently Learning
+
+- Deepening JavaScript: async programming, DOM manipulation
+- Frontend development with React
+
+
