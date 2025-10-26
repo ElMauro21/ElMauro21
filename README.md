@@ -9,25 +9,25 @@
 
 ## 🎯 Career Objective
 
-Passionate and self-motivated aspiring Full Stack Developer with a solid foundation in web development using Go (Golang), Gin, JavaScript, and SQLite3. With a background in Industrial Engineering and a strong drive for continuous improvement, I bring a unique blend of process optimization and technical skills. Currently seeking an opportunity to contribute to dynamic development teams while growing as a developer.
+Passionate and self-motivated aspiring Full Stack Developer with a solid foundation in web development. With a background in Engineering and a strong drive for continuous improvement, I bring a unique blend of process optimization and technical skills. Currently seeking an opportunity to contribute to dynamic development teams while growing as a developer.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Go (Golang), JavaScript  
-- **Frameworks:** Gin (Go Web Framework)  
+- **Languages:** Python, Golang, JavaScript  
+- **Frameworks:** Django, Gin (Go Web Framework)
 - **Databases:** SQLite3  
 - **Version Control:** Git  
 - **Tools:** HTML, CSS, REST APIs (basic), Visual Studio Code  
-- **Currently Learning:** Advanced JavaScript, React
+- **Currently Learning:** Advanced JavaScript, React, Typescript
 
 ---
 
 ## 💻 Projects
 
 ### 🛒 UkaUkafb – E-commerce Web Application  
-📂 [GitHub Repository](https://github.com/ElMauro21/UkaUkafb-ecommerce)  
+📂 [https://github.com/ElMauro21/UkaUka-Ecommerce ](https://github.com/ElMauro21/UkaUka-Ecommerce)
 **Tech stack:** Go, Gin, SQLite3, JavaScript, HTML/CSS, Go Templates, Git
 
 Developed an e-commerce platform for a fingerboard obstacle shop with real-time inventory and full user/admin functionality.
@@ -39,6 +39,16 @@ Developed an e-commerce platform for a fingerboard obstacle shop with real-time 
 - Stock logic to restrict purchases to available items
 - UI rendered using Go templates and enhanced with JavaScript
 
+### 🛒 Lucas loaves – E-commerce Web Application  
+📂 [https://github.com/ElMauro21/UkaUka-Ecommerce ](https://github.com/ElMauro21/Lucas-Loaves)
+**Tech stack:** Go, Gin, SQLite3, JavaScript, HTML/CSS, Go Templates, Git
+
+Developed an e-commerce platform for a laoves shop as a task request by my college.
+
+**Features:**
+- User registration, login, logout
+- Admin dashboard (product CRUD)
+- UI rendered using Go templates and enhanced with JavaScript
 ---
 
 ## 🎓 Education
