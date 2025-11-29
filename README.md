@@ -1,97 +1,130 @@
-# 📄 Mauricio Andres Alfonso Forero – CV
+# Mauricio Andrés Alfonso Forero
 
-📍 Sydney, Australia  
-📧 mauro311095@gmail.com  
-📞 0493 327 021  
-🌐 [GitHub – ElMauro21](https://github.com/ElMauro21)
-
----
-
-## 🎯 Career Objective
-
-Passionate and self-motivated aspiring Full Stack Developer with a solid foundation in web development. With a background in Engineering and a strong drive for continuous improvement, I bring a unique blend of process optimization and technical skills. Currently seeking an opportunity to contribute to dynamic development teams while growing as a developer.
+**📍 Location:** Kogarah, NSW, Australia  
+**📧 Email:** mauro311095@gmail.com  
+**📞 Phone:** 0493 327 021  
+**💻 GitHub:** [github.com/ElMauro21](https://github.com/ElMauro21)  
+**🌐 Portfolio:** Django CV Website  
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💼 Professional Summary
 
-- **Languages:** Python, Golang, JavaScript  
-- **Frameworks:** Django, Gin (Go Web Framework)
-- **Databases:** SQLite3  
-- **Version Control:** Git  
-- **Tools:** HTML, CSS, REST APIs (basic), Visual Studio Code  
-- **Currently Learning:** Advanced JavaScript, React, Typescript
+Entry-level Data Analyst with strong foundations in Python, SQL, statistical analysis, KPIs, Power BI, and dashboard creation. Industrial Engineer with experience improving production performance using data-driven insights and operational analytics.
+
+Currently completing a comprehensive **Data Analytics Bootcamp**, strengthening skills in Python, SQL, Power BI, Tableau, data modelling, and feature engineering.
+
+Skilled in analysing KPIs, building dashboards, optimising workflows, and translating business requirements into analytical solutions. Seeking a **Data Analyst** or **BI** role within the Australian market.
 
 ---
 
-## 💻 Projects
+## 🛠 Technical Skills
 
-### 🛒 UkaUkafb – E-commerce Web Application  
-📂 [https://github.com/ElMauro21/UkaUka-Ecommerce ](https://github.com/ElMauro21/UkaUka-Ecommerce)
-**Tech stack:** Go, Gin, SQLite3, JavaScript, HTML/CSS, Go Templates, Git
+### **Data Analytics & Statistics**
+- Python (Pandas, NumPy – in progress)
+- EDA, Descriptive & Inferential Statistics
+- Hypothesis Testing, Forecasting Basics
+- Data Cleaning & Transformation
 
-Developed an e-commerce platform for a fingerboard obstacle shop with real-time inventory and full user/admin functionality.
+### **Business Intelligence & Visualisation**
+- Power BI (DAX, Power Query, dashboards)
+- Tableau
+- Excel (Pivot Tables, Power Query, dashboards)
 
-**Features:**
-- User registration, login, logout
-- Password recovery via email, account update and deletion
-- Admin dashboard (product CRUD)
-- Stock logic to restrict purchases to available items
-- UI rendered using Go templates and enhanced with JavaScript
+### **Databases & SQL**
+- MS SQL Server
+- Joins, aggregates, data extraction
+- Basic data modelling
 
-### 🛒 Lucas loaves – E-commerce Web Application  
-📂 [https://github.com/ElMauro21/UkaUka-Ecommerce ](https://github.com/ElMauro21/Lucas-Loaves)
-**Tech stack:** Go, Gin, SQLite3, JavaScript, HTML/CSS, Go Templates, Git
+### **Programming & Automation**
+- Python OOP
+- Django Framework
+- JavaScript
+- HTML/CSS
+- Git
 
-Developed an e-commerce platform for a laoves shop as a task request by my college.
+### **Business & Process Skills**
+- KPI development
+- Process optimisation
+- Requirements analysis
+- ISO 9001 quality systems
+- Documentation
+- Agile fundamentals
 
-**Features:**
-- User registration, login, logout
-- Admin dashboard (product CRUD)
-- UI rendered using Go templates and enhanced with JavaScript
 ---
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Industrial Engineering**  
-Nueva Granada Military University, Colombia – 2019  
+### **Advanced Diploma of Information Technology (ICT60220)**  
+*Australian College of Business Intelligence, Sydney – Graduated 2025*  
+_(ACS skills assessed as ICT Business Analyst, Systems Analyst, Developer Programmer)_
 
-- Focused on process optimization, systems analysis, and productivity improvement  
-- Applied problem-solving and analytical thinking now transitioned into software development
+### **Bachelor’s Degree in Industrial Engineering**  
+*Universidad Militar Nueva Granada, Colombia – 2019*
 
----
+### **Diploma in Quality Management – 2019**
 
-## 💼 Work Experience
+### **Internal Auditor ISO 9001:2015 – 2020**
 
-**Joiner – AJK Outfitters**  
-Sydney, Australia | January 2024 – Present  
-
-- Assisted in installation of high-quality custom furniture and joinery  
-- Maintained workflow and adhered to safety procedures  
-- Known for dependability and high work ethic  
-- Learning software development in parallel with full-time work
+### **Data Analytics Bootcamp (In Progress)**  
+**Content:** Python, Statistics, SQL, Power BI, Tableau, Excel, Data Modelling, Feature Engineering, Snowflake, AWS, SQL+Tableau Project, Prompt Engineering.
 
 ---
 
-## 💪 Strengths
+## 📊 Projects
 
-- Passionate about coding and continuous learning  
-- Strong analytical mindset from engineering background  
-- Adaptable, reliable, and collaborative  
-- Always willing to give more than 100%  
+### **Production Performance Dashboard – Conversalco S.A.**
+- Built Excel dashboards to track production KPIs.
+- Analysed worker efficiency and behavioural factors affecting output.
+- Improved production from **38 to 55 tons/day** via team restructuring.
+- Supported forecasting and cost tracking.
+
+### **Django CV Website**
+- Django web app with dynamic content.
+- Demonstrated database integration, MVT pattern, and templating.
+- Foundation for automating internal dashboards and reporting tools.
+
+### **Bootcamp Projects (Ongoing)**
+- Power BI Sales & Insurance dashboards (data modelling + DAX)
+- UPI Transaction Analysis using Power Query
+- SQL + Tableau analysis (student depression dataset)
+- Excel dashboards using SQL Server + Power Query
+
+---
+
+## 💼 Professional Experience
+
+### **Industrial Engineer – Conversalco S.A.**  
+*Colombia | Feb 2020 – Sep 2020*
+- Analysed production data to identify bottlenecks.
+- Built KPI dashboards for machine output & labour performance.
+- Increased production from **38 to 55 tons/day** using data insights.
+- Conducted root-cause analyses and continuous improvement projects.
+
+### **Quality Management Consultant – Municipal Council of Zipaquirá**  
+*Colombia | 2021*
+- Implemented ISO 9001-aligned Quality Management System.
+- Analysed organisational KPIs supporting certification.
+- Created performance metrics, process docs, and dashboards.
+
+### **Joiner & Installer – AJK Outfitters**  
+*Sydney, Australia | 2024–2025*
+- Accurate custom joinery installations.
+- Demonstrated teamwork, time management, and reliability.
+
+---
+
+## 💡 Strengths
+- Analytical mindset (engineering background)
+- Ability to translate business needs into KPIs & dashboards
+- Fast learner and adaptable
+- Structured problem-solving
+- Motivated to grow in Data Analytics & BI
 
 ---
 
 ## 🌐 Languages
-
 - **Spanish:** Native  
-- **English:** Intermediate (PTE Score: 63)
+- **English:** Intermediate (PTE 63)
 
 ---
-
-## 📚 Currently Learning
-
-- Deepening JavaScript: async programming, DOM manipulation
-- Frontend development with React
-
-
