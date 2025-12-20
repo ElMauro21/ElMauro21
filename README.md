@@ -1,130 +1,111 @@
-# Mauricio Andrés Alfonso Forero
+# Mauricio Andres Alfonso Forero  
+**Junior Full Stack Developer | Python | Django | PostgreSQL | REST APIs**  
+Sydney, NSW, Australia  
 
-**📍 Location:** Kogarah, NSW, Australia  
-**📧 Email:** mauro311095@gmail.com  
-**📞 Phone:** 0493 327 021  
-**💻 GitHub:** [github.com/ElMauro21](https://github.com/ElMauro21)  
-**🌐 Portfolio:** Django CV Website  
-
----
-
-## 🧑‍💼 Professional Summary
-
-Entry-level Data Analyst with strong foundations in Python, SQL, statistical analysis, KPIs, Power BI, and dashboard creation. Industrial Engineer with experience improving production performance using data-driven insights and operational analytics.
-
-Currently completing a comprehensive **Data Analytics Bootcamp**, strengthening skills in Python, SQL, Power BI, Tableau, data modelling, and feature engineering.
-
-Skilled in analysing KPIs, building dashboards, optimising workflows, and translating business requirements into analytical solutions. Seeking a **Data Analyst** or **BI** role within the Australian market.
+📧 Email: mauro311095@gmail.com  
+📞 Phone: +61 0493 327 021  
+💻 GitHub: https://github.com/ElMauro21  
+🔗 LinkedIn: https://linkedin.com/in/mauricio-andres-alfonso-forero  
 
 ---
 
-## 🛠 Technical Skills
+## PROFESSIONAL SUMMARY
 
-### **Data Analytics & Statistics**
-- Python (Pandas, NumPy – in progress)
-- EDA, Descriptive & Inferential Statistics
-- Hypothesis Testing, Forecasting Basics
-- Data Cleaning & Transformation
+Junior Full Stack Developer with hands-on experience building end-to-end web applications using Python and Django. Strong foundation in backend development, relational databases, and frontend technologies.
 
-### **Business Intelligence & Visualisation**
-- Power BI (DAX, Power Query, dashboards)
-- Tableau
-- Excel (Pivot Tables, Power Query, dashboards)
-
-### **Databases & SQL**
-- MS SQL Server
-- Joins, aggregates, data extraction
-- Basic data modelling
-
-### **Programming & Automation**
-- Python OOP
-- Django Framework
-- JavaScript
-- HTML/CSS
-- Git
-
-### **Business & Process Skills**
-- KPI development
-- Process optimisation
-- Requirements analysis
-- ISO 9001 quality systems
-- Documentation
-- Agile fundamentals
+Background in Industrial Engineering, bringing analytical thinking, statistics knowledge, and structured problem-solving skills. Currently developing a data-driven Django web application that integrates data analysis and dashboards for SMEs. Seeking an entry-level or graduate developer role to grow professionally and contribute to real-world projects.
 
 ---
 
-## 🎓 Education
+## TECHNICAL SKILLS
 
-### **Advanced Diploma of Information Technology (ICT60220)**  
-*Australian College of Business Intelligence, Sydney – Graduated 2025*  
-_(ACS skills assessed as ICT Business Analyst, Systems Analyst, Developer Programmer)_
+### Backend
+- Python  
+- Django  
+- Django ORM  
+- RESTful APIs  
 
-### **Bachelor’s Degree in Industrial Engineering**  
-*Universidad Militar Nueva Granada, Colombia – 2019*
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Django Templates  
 
-### **Diploma in Quality Management – 2019**
+### Databases
+- PostgreSQL  
+- MySQL  
+- SQLite3  
 
-### **Internal Auditor ISO 9001:2015 – 2020**
-
-### **Data Analytics Bootcamp (In Progress)**  
-**Content:** Python, Statistics, SQL, Power BI, Tableau, Excel, Data Modelling, Feature Engineering, Snowflake, AWS, SQL+Tableau Project, Prompt Engineering.
-
----
-
-## 📊 Projects
-
-### **Production Performance Dashboard – Conversalco S.A.**
-- Built Excel dashboards to track production KPIs.
-- Analysed worker efficiency and behavioural factors affecting output.
-- Improved production from **38 to 55 tons/day** via team restructuring.
-- Supported forecasting and cost tracking.
-
-### **Django CV Website**
-- Django web app with dynamic content.
-- Demonstrated database integration, MVT pattern, and templating.
-- Foundation for automating internal dashboards and reporting tools.
-
-### **Bootcamp Projects (Ongoing)**
-- Power BI Sales & Insurance dashboards (data modelling + DAX)
-- UPI Transaction Analysis using Power Query
-- SQL + Tableau analysis (student depression dataset)
-- Excel dashboards using SQL Server + Power Query
+### Tools
+- Git  
+- GitHub  
+- Linux (CLI)  
+- Agile Fundamentals  
 
 ---
 
-## 💼 Professional Experience
+## PROJECTS
 
-### **Industrial Engineer – Conversalco S.A.**  
-*Colombia | Feb 2020 – Sep 2020*
-- Analysed production data to identify bottlenecks.
-- Built KPI dashboards for machine output & labour performance.
-- Increased production from **38 to 55 tons/day** using data insights.
-- Conducted root-cause analyses and continuous improvement projects.
+### Pyme-Pulse  
+**Python | Django | PostgreSQL | Pandas**
 
-### **Quality Management Consultant – Municipal Council of Zipaquirá**  
-*Colombia | 2021*
-- Implemented ISO 9001-aligned Quality Management System.
-- Analysed organisational KPIs supporting certification.
-- Created performance metrics, process docs, and dashboards.
+- Designed and developed a full-stack Django application from scratch to a production-ready structure.  
+- Built backend logic using Django ORM and relational databases.  
+- Integrated data analysis workflows using Pandas and SQL.  
+- Generated business dashboards and data visualisations for SMEs.  
+- Implemented user authentication, database migrations, and version control using Git.  
 
-### **Joiner & Installer – AJK Outfitters**  
-*Sydney, Australia | 2024–2025*
-- Accurate custom joinery installations.
-- Demonstrated teamwork, time management, and reliability.
+### Personal Django Projects
+- CRUD applications using Django and relational databases.  
+- User authentication and authorisation features.  
+- Database modeling and migrations.  
+- Version-controlled development using GitHub.  
 
 ---
 
-## 💡 Strengths
-- Analytical mindset (engineering background)
-- Ability to translate business needs into KPIs & dashboards
-- Fast learner and adaptable
-- Structured problem-solving
-- Motivated to grow in Data Analytics & BI
+## EDUCATION
+
+### Advanced Diploma of Information Technology  
+Sydney, Australia  
+*Completed: August 2025*
+
+### Bachelor of Industrial Engineering  
+Colombia  
+
+- Statistics and probability  
+- Data analysis and interpretation  
+- Process optimisation and performance analysis  
+- Logical and analytical problem-solving  
 
 ---
 
-## 🌐 Languages
-- **Spanish:** Native  
-- **English:** Intermediate (PTE 63)
+## CERTIFICATIONS & ASSESSMENTS
+
+**Australian Computer Society (ACS) – Positive Skills Assessment**
+- Developer Programmer  
+- Systems Analyst  
+- Business Analyst  
 
 ---
+
+## WORK EXPERIENCE
+
+### Joinery Installer  
+Australia | Jan 2024 – Oct 2025  
+
+- Worked full-time while completing IT studies.  
+- Developed strong teamwork, time management, and problem-solving skills.  
+- Delivered technical work under deadlines and quality standards.  
+
+---
+
+## LANGUAGES
+- Spanish: Native  
+- English: Professional Working Proficiency (PTE Academic: 63)  
+
+---
+
+## AVAILABILITY
+- Entry-Level / Graduate opportunities  
+- Open to on-site, hybrid, or remote roles  
+
