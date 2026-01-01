@@ -1,111 +1,46 @@
-# Mauricio Andres Alfonso Forero  
-**Junior Full Stack Developer | Python | Django | PostgreSQL | REST APIs**  
-Sydney, NSW, Australia  
+# Hi there, I'm Mauricio Alfonso 👋
 
-📧 Email: mauro311095@gmail.com  
-📞 Phone: +61 0493 327 021  
-💻 GitHub: https://github.com/ElMauro21  
-🔗 LinkedIn: https://linkedin.com/in/mauricio-andres-alfonso-forero  
+## Junior Backend & Data-Oriented Developer 🐍📊
+
+I am a **Junior Backend Developer** with a background in **Industrial Engineering**. I specialize in building data-driven applications that transform complex datasets into actionable insights, focusing on **Python**, **Django**, and **SQL**.
 
 ---
 
-## PROFESSIONAL SUMMARY
+### 🚀 Technical Stack
 
-Junior Full Stack Developer with hands-on experience building end-to-end web applications using Python and Django. Strong foundation in backend development, relational databases, and frontend technologies.
-
-Background in Industrial Engineering, bringing analytical thinking, statistics knowledge, and structured problem-solving skills. Currently developing a data-driven Django web application that integrates data analysis and dashboards for SMEs. Seeking an entry-level or graduate developer role to grow professionally and contribute to real-world projects.
-
----
-
-## TECHNICAL SKILLS
-
-### Backend
-- Python  
-- Django  
-- Django ORM  
-- RESTful APIs  
-
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
-- Django Templates  
-
-### Databases
-- PostgreSQL  
-- MySQL  
-- SQLite3  
-
-### Tools
-- Git  
-- GitHub  
-- Linux (CLI)  
-- Agile Fundamentals  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) |
+| **Data Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
-## PROJECTS
-
-### Pyme-Pulse  
-**Python | Django | PostgreSQL | Pandas**
-
-- Designed and developed a full-stack Django application from scratch to a production-ready structure.  
-- Built backend logic using Django ORM and relational databases.  
-- Integrated data analysis workflows using Pandas and SQL.  
-- Generated business dashboards and data visualisations for SMEs.  
-- Implemented user authentication, database migrations, and version control using Git.  
-
-### Personal Django Projects
-- CRUD applications using Django and relational databases.  
-- User authentication and authorisation features.  
-- Database modeling and migrations.  
-- Version-controlled development using GitHub.  
+### 🛠️ Featured Project: [Cardfolio](https://github.com/ElMauro21)
+**MTG Collection Tracker & Investment Manager (In progress)**
+* **Concept:** A web application for Magic: The Gathering collectors to register and monitor the financial value of their collections.
+* **Core Tech:** Python, Django, PostgreSQL.
+* **Key Features:** * Investment performance.
+    * Relational database design to manage thousands of unique card entries and sets.
+    * Data processing to calculate portfolio gains/losses based on market trends.
+* **Focus:** Backend logic, data integrity, and financial data visualization.
 
 ---
 
-## EDUCATION
-
-### Advanced Diploma of Information Technology  
-Sydney, Australia  
-*Completed: August 2025*
-
-### Bachelor of Industrial Engineering  
-Colombia  
-
-- Statistics and probability  
-- Data analysis and interpretation  
-- Process optimisation and performance analysis  
-- Logical and analytical problem-solving  
+### 🎓 Education & Certs
+* **Advanced Diploma of IT** - Sydney, Australia (2025)
+* **Bachelor of Industrial Engineering** - Colombia
+* **AWS Cloud Practitioner Essentials** ☁️
+* **ACS Positive Skills Assessment** (Developer Programmer / Systems Analyst / Business Analyst)
 
 ---
 
-## CERTIFICATIONS & ASSESSMENTS
-
-**Australian Computer Society (ACS) – Positive Skills Assessment**
-- Developer Programmer  
-- Systems Analyst  
-- Business Analyst  
+### 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-andres-alfonso-forero)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauro311095@gmail.com)
 
 ---
 
-## WORK EXPERIENCE
-
-### Joinery Installer  
-Australia | Jan 2024 – Oct 2025  
-
-- Worked full-time while completing IT studies.  
-- Developed strong teamwork, time management, and problem-solving skills.  
-- Delivered technical work under deadlines and quality standards.  
-
----
-
-## LANGUAGES
-- Spanish: Native  
-- English: Professional Working Proficiency (PTE Academic: 63)  
-
----
-
-## AVAILABILITY
-- Entry-Level / Graduate opportunities  
-- Open to on-site, hybrid, or remote roles  
-
+### ⚡ Fun Fact
+I apply Industrial Engineering principles—like inventory control and optimization—to build better software. When I'm not coding, I'm likely analyzing the secondary market for TCGs.
