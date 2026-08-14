@@ -58,6 +58,7 @@ Fullstack Developer & Industrial Engineer specializing in the end-to-end design 
 ### 📬 Connect with me
 
 * **GitHub:** [github.com/ElMauro21](https://github.com/ElMauro21)
+* **Linkdin:** [linkedin.com/in/mauricio-andres-alfonso-forero/](https://www.linkedin.com/in/mauricio-andres-alfonso-forero/)
 * **Email:** [mauro311095@gmail.com](mailto:mauro311095@gmail.com)
-* **Phone:** 0493327021
-* **Address:** 27 Railway st, Kogarah Sydney, Australia
+* **Phone:** +57 313 474 59 26
+* **Address:** Zipaquirá Colombia
