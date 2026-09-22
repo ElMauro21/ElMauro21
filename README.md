@@ -1,8 +1,8 @@
 # Hi there, I'm Mauricio Andres Alfonso Forero 👋
 
-## Fullstack Developer & Industrial Engineer ⚙️💻
+## Backend Engineer ⚙️💻[cite: 1]
 
-Fullstack Developer & Industrial Engineer specializing in the end-to-end design and development of scalable web applications. Expert in architecting robust backend systems with Python/Django and creating seamless, interactive user interfaces using Vue.js. Proven ability to bridge the gap between complex data operations and front-end delivery through efficient RESTful APIs (DRF/Axios). Committed to high-performance software through Test-Driven Development (TDD), relational database optimization (PostgreSQL), and containerized production environments.
+Backend Engineer specialized in Python, with experience in developing REST APIs and distributed systems using Django, DRF, Django Ninja, PostgreSQL, Celery, and Redis[cite: 1]. Experienced in API authentication and security using JWT and OAuth 2.0 (Google and GitHub)[cite: 1]. Capable of integrating APIs with Vue.js/TypeScript applications, deploying services with Docker and AWS, and integrating AI services in production environments[cite: 1].
 
 ---
 
@@ -10,55 +10,58 @@ Fullstack Developer & Industrial Engineer specializing in the end-to-end design 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Advanced), TypeScript, SQL, HTML5, CSS3 |
-| **Backend & APIs** | Django, Django REST Framework (DRF) |
-| **Frontend** | Vue.js, Axios |
-| **Databases** | PostgreSQL |
-| **Asynchronous & Caching** | Celery, Redis, Flower |
-| **Infrastructure & DevOps**| Docker, Docker Compose, AWS, Render, Gunicorn, Linux |
-| **Software Quality** | TDD (Pytest, Vitest), Linting (Flake8, Black, Isort), Static Typing (Django-stubs), Git (Semantic Commits) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)[cite: 1] |
+| **Backend & APIs** | ![Django](https://img.shields.io/badge/django-%0927e.svg?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)[cite: 1] |
+| **AI & CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-yellow?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)[cite: 1] |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/vuejs-%#35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)[cite: 1] |
+| **Databases & Data** | ![PostgreSQL](https://img.shields.io/badge/postgres-%336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%#150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%#013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)[cite: 1] |
+| **Asynchrony** | ![Celery](https://img.shields.io/badge/celery-%#37814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%#DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)[cite: 1] |
+| **Cloud & DevOps**| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%#0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)[cite: 1] |
+| **Quality & Testing** | ![Pytest](https://img.shields.io/badge/pytest-%#0a9edc.svg?style=for-the-badge&logo=pytest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Git](https://img.shields.io/badge/git-%#F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=testinglibrary&logoColor=white)[cite: 1] |
 
 ---
 
 ### 💼 Professional Experience & Key Projects
 
-#### **Lead Backend Developer (MVP Development) — Grit (Gamified SaaS platform)**
-*10/2025 - Present*
-* **Architecture & Concurrency:** Designed and implemented a high-performance, containerized asynchronous backend architecture utilizing Django REST Framework (DRF), Celery, and Redis for distributed task queues.
-* **Data Integrity & Idempotency:** Developed idempotent API endpoints.
-* **Test-Driven Development (TDD):** Enforced strict code reliability by achieving high test coverage using Pytest, Pytest-Django, and Pytest-Cov.
-* **DevOps & Security:** Orchestrated multi-stage Docker configurations for production environments, optimizing image sizes (`python-slim-bookworm`) and securing authentication pipelines with JWT (SimpleJWT), while migrating session management/blacklists to Redis for sub-millisecond validation.
-* **Code Quality & Standards:** Maintained a professional workflow using Git semantic commits, strict lints/formatting (Black, Flake8, Isort), and type hinting verification via Django-stubs.
+#### **Backend Engineer — GRIT**[cite: 1]
+*10/2025 - Present*[cite: 1]
+* Designed and developed a backend API with Django REST Framework, applying modular architecture, idempotent endpoints, and asynchronous processing[cite: 1].
+* Implemented authentication and security with JWT (SimpleJWT), OAuth 2.0 with Google and GitHub, CORS, and throttling; used Redis for caching and token blacklist/revocation management[cite: 1].
+* Containerized the environment with Docker and applied quality and testing practices with Pytest, TDD, Flake8, and Black[cite: 1].
+* Integrated Google Gemini API and developed the web client with Vue.js, Vite, Pinia, and TypeScript, connecting it with backend APIs and services[cite: 1].
 
-#### **Process and Data Engineer — Conversalco S.A. (Colombia)**
-*02/2020 - 09/2020*
-* **Flow Optimization:** Restructured production workflows based on bottleneck analysis, achieving a 44% increase in daily throughput (from 38 to 55 tons/day).
-* **Automated Reporting:** Developed extraction and transformation (ETL) systems to generate real-time operational KPIs and performance dashboards.
+#### **Data Analyst — Concepto Nativo (Remote)**[cite: 1]
+*08/2025 - Present*[cite: 1]
+* Designed and developed a system in Django for the ingestion, transformation, and analysis of YouTube metrics from CSV files[cite: 1].
+* Implemented an asynchronous pipeline with Celery and Redis to process over 4,000 thumbnails, integrating OpenCV, DeepFace, EasyOCR, PyTorch, and Google Gemini API for extraction and analysis of visual features[cite: 1].
+* Analyzed data with Python, Pandas, Matplotlib, and Jupyter, correlating visual features with performance metrics to support content optimization decisions[cite: 1].
 
-#### **Process Consultant — Zipaquirá Municipal Council (Colombia)**
-*01/2021 - 12/2021*
-* **Infrastructure Standardization:** Designed and documented information management processes to ensure regulatory compliance and technical efficiency.
-* **Data Governance:** Implemented organizational performance metrics and data-driven dashboards to support strategic decision-making.
+#### **Process Consultant — Concejo municipal de Zipaquirá (Colombia)**[cite: 1]
+*01/2021 - 12/2021*[cite: 1]
+* Designed and standardized the information management process infrastructure to ensure regulatory compliance and operational technical efficiency[cite: 1].
+* Implemented organizational performance metrics and control dashboards oriented toward strategic data-driven decision-making[cite: 1].
 
-#### **Joiner and Installer — AJK Outfitters (Australia)**
-*01/2024 - 10/2025*
-* Managed concurrent technical projects while completing an Advanced Diploma in IT, demonstrating high organizational skills and strong work ethics under pressure.
+#### **Process & Data Engineer — Conversalco S.A. (Colombia)**[cite: 1]
+*02/2020 - 09/2020*[cite: 1]
+* Restructured production workflows through bottleneck analysis, increasing daily output by 44% (from 38 to 55 tons/day)[cite: 1].
+* Developed data extraction and transformation (ETL) systems to generate real-time operational dashboards and key performance indicators (KPIs)[cite: 1].
 
 ---
 
 ### 🎓 Education & Certifications
 
-* **Advanced Diploma of Information Technology** — Australian Business College (2025)
-* **Bachelor of Industrial Engineering** — Universidad Militar Nueva Granada
-* **AWS Cloud Practitioner Essentials** ☁️
-* **ACS Positive Skills Assessment** (Developer Programmer / Systems Analyst / Business Analyst)
+* **Advanced Diploma of Information Technology** — Australian College of Business Intelligence (2023-2025)[cite: 1]
+* **AWS Cloud Practitioner Essentials** (2025)[cite: 1]
+* **Professional Skills Assessment (Developer/Programmer, Systems Analyst / Business Analyst)** — ACS Australia[cite: 1]
+* **Bachelor of Industrial Engineering** — Universidad Militar Nueva Granada (2019)[cite: 1]
+* **Software Programming Technician** — SENA (2012)[cite: 1]
 
 ---
 
 ### 📬 Connect with me
 
 * **GitHub:** [github.com/ElMauro21](https://github.com/ElMauro21)
-* **Linkdin:** [linkedin.com/in/mauricio-andres-alfonso-forero/](https://www.linkedin.com/in/mauricio-andres-alfonso-forero/)
+* **LinkedIn:** [linkedin.com/in/mauricio-andres-alfonso-forero/](https://www.linkedin.com/in/mauricio-andres-alfonso-forero/)
 * **Email:** [mauro311095@gmail.com](mailto:mauro311095@gmail.com)
-* **Phone:** +57 313 474 59 26
-* **Address:** Zipaquirá Colombia
+* **Phone:** +57 313 474 5926[cite: 1]
+* **Address:** Zipaquirá Colombia[cite: 1]
